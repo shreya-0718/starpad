@@ -18,5 +18,18 @@ Here is the schematic:
 Getting all the wires connected certainly was... something. I had to use more than one via (where you go through the board and jump the wire to the other side. via = lifesaver). After I'd routed everything, I added a bunch of silkscreen art + my name to it. 
 
 Here's a picture:
+
 ![schematic](images/schematic.png)
 
+## CAD (feat. Fusion 360) (2 hours)
+In this step, I made the case for the macropad, plus the cover for the rotary encoder. I used Fusion 360 for this, which I have experience with from school. I designed an open case, since I wanted my PCB and silkscreens to be visible.
+
+Here are some pictures of the case and the rotary encoder cover:
+
+![bottom of case](images/case_bottom.png)
+![lid of case](images/case_lid.png)
+![rotary encoder cover](images/knob.png)
+
+And here is what it looks like put together:
+
+![assembled case](images/assembled_case.png)
