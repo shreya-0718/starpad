@@ -10,4 +10,5 @@ I looked back over the Hackpad guide, as well as this one: https://wiki.ai03.com
 before making a new project on KiCad and diving into making this thing. 
 
 Here is the schematic:
+
 ![schematic](images/schematic.png)
