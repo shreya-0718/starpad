@@ -15,4 +15,8 @@ Here is the schematic:
 
 ## Routing + Silkscreen (3 hours)
 
-Getting all the wires connected certainly was... something. I had to use more than one via (where you go through the board and jump the wire to the other side. via = lifesaver). After I'd routed everything, I added a bunch of silkscreen art + my name to it. Here's a picture:
+Getting all the wires connected certainly was... something. I had to use more than one via (where you go through the board and jump the wire to the other side. via = lifesaver). After I'd routed everything, I added a bunch of silkscreen art + my name to it. 
+
+Here's a picture:
+![schematic](images/schematic.png)
+
