@@ -33,3 +33,19 @@ Here are some pictures of the case and the rotary encoder cover:
 And here is what it looks like put together:
 
 ![assembled case](images/assembled_case.png)
+
+## Firmware (1.5 hours)
+I used kmk to write the firmware for my hackpad. First I installed some libraries to allow it to work with the rotary encoder and the OLED display. Then I wrote the code to make the keys work, as well as the rotary encoder. Here is the button layout:
+
+| (Rotary Encoder) | Mute/Unmute | Camera Toggle |
+|------------------|-------------|---------------|
+| Previous Track   | Play/Pause  | Next Track    |
+| Screenshot       | RGB Mode 🔄 | Emoji Picker 😊 |
+
+And now I'm done! Well, until my parts come anyway.
+
+To-Do:
+- order parts
+- solder parts
+- assemble macropad
+- finish this journal
