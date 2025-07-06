@@ -486,7 +486,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "drill/",
+      "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "starpad.step",
